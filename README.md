@@ -1,4 +1,10 @@
-# Yaku Han JP
+# Yaku Han JP 墨付きのみ
+
+```
+【はU+3010
+】はU+3011
+この２文字だけのcssを提供
+```
 
 <p>
   <a aria-label="Made by QRANOKO" href="https://qranoko.jp">
